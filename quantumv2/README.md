@@ -39,3 +39,11 @@ Summary from [this article](https://anbasile.github.io/programming/2017/06/25/ju
 
 Now, a jupyter notebook can be started as is normally done. Inside the notebook, select the Kernel tab at the top, and under "Change kernel," select the kernel that was just installed. (Will be named whatever was put for `projectname`.)
 
+# Errors and Fixes for Running on a Real Quantum Computer
+
+This is relevant for Day-24 In Class Assignment.
+
+* ConnectionError: Not able to connect to IBM Server.
+	* Fix: Unknown. Use IBM Quantum Composer as alternative.
+
+
